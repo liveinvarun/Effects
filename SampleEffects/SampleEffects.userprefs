@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{02498779-BC47-4004-88F5-378B40CFCA40}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/UnderlineEffect.cs">
+    <Files>
+      <File FileName="SampleEffects/SamplePage.cs" Line="35" Column="1" />
+      <File FileName="iOS/UnderlineEffect.cs" Line="28" Column="29" />
+      <File FileName="SampleEffects/SampleEffects.cs" Line="12" Column="10" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Droid/Underline_Droid.cs" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SampleEffects.Droid PreferredExecutionTarget="Android.4d0085784ff741a7" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/user/Documents/VarunXam/SampleEffects/SampleEffects/SamplePage.cs" line="35" column="47" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleEffects.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A146826D-9402-4943-AFAA-F7E66DA57CDC" />
+</Properties>
