@@ -1,11 +1,14 @@
-﻿<Properties StartupConfiguration="{02498779-BC47-4004-88F5-378B40CFCA40}|Default">
+﻿<Properties StartupConfiguration="{DC5608BD-C141-44F4-B605-2C8196E171B6}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="iOS/UnderlineEffect.cs">
     <Files>
-      <File FileName="SampleEffects/SamplePage.cs" Line="35" Column="1" />
-      <File FileName="iOS/UnderlineEffect.cs" Line="28" Column="29" />
-      <File FileName="SampleEffects/SampleEffects.cs" Line="12" Column="10" />
-      <File FileName="iOS/Main.cs" Line="17" Column="1" />
-      <File FileName="Droid/Underline_Droid.cs" Line="2" Column="1" />
+      <File FileName="SampleEffects/SamplePage.cs" Line="48" Column="1" />
+      <File FileName="Droid/FontEffect.cs" Line="22" Column="1" />
+      <File FileName="iOS/FontEffectIOS.cs" Line="22" Column="1" />
+      <File FileName="SampleEffects/EffectConstants.cs" Line="6" Column="45" />
+      <File FileName="Droid/MainActivity.cs" Line="13" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="10" Column="30" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="iOS/UnderlineEffect.cs" Line="28" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.SampleEffects.Droid PreferredExecutionTarget="Android.4d0085784ff741a7" />
@@ -13,6 +16,8 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/user/Documents/VarunXam/SampleEffects/SampleEffects/SamplePage.cs" line="35" column="47" />
+      <Breakpoint file="/Users/user/Documents/VarunXam/Effects/SampleEffects/iOS/UnderlineEffect.cs" line="28" column="1" />
+      <Breakpoint file="/Users/user/Documents/VarunXam/Effects/SampleEffects/iOS/FontEffectIOS.cs" line="22" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

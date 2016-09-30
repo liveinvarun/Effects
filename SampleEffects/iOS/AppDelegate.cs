@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
+using SampleEffects;
 using UIKit;
+using Xamarin.Forms;
 
+[assembly: ResolutionGroupName(EffectConstants.GROUPRESOLUTIONSTRING)]
 namespace SampleEffects.iOS
 {
     [Register("AppDelegate")]

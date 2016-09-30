@@ -7,7 +7,10 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Xamarin.Forms;
+using SampleEffects;
 
+[assembly: ResolutionGroupName(EffectConstants.GROUPRESOLUTIONSTRING)]
 namespace SampleEffects.Droid
 {
     [Activity(Label = "SampleEffects.Droid", Icon = "@drawable/icon", Theme = "@style/MyTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]

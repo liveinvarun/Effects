@@ -5,7 +5,7 @@ using UIKit;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.iOS;
 
-[assembly:ResolutionGroupName("SampleEffects")]
+//[assembly:ResolutionGroupName("SampleEffects")]
 [assembly:ExportEffect(typeof(UnderlineEffect),"UnderlineEffect")]
 namespace SampleEffects.iOS
 {

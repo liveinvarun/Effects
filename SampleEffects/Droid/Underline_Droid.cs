@@ -7,7 +7,7 @@ using SampleEffects.Droid;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 
-[assembly:ResolutionGroupName("SampleEffects")]
+//[assembly:ResolutionGroupName("SampleEffects")]
 [assembly:ExportEffect(typeof(UnderlineEffect),"UnderlineEffect")]
 namespace SampleEffects.Droid
 {
